@@ -1,0 +1,19 @@
+{
+    "morning": [
+      {
+        "dua_in_arabic": "اللّهُـمَّ أَنْتَ رَبِّـي لا إِلٰهَ إِلّا أَنْتَ",
+        "dua_in_english": "O Allah, You are my Lord; there is no deity but You.",
+        "reference": "https://sunnah.com",
+        "repeat": 3
+      }
+    ],
+    "evening": [
+      {
+        "dua_in_arabic": "أَمْسَيْنا وَأَمْسَى الْـمُلْكُ لِلَّهِ",
+        "dua_in_english": "We have entered the evening and with it all dominion is Allah's.",
+        "reference": "https://sunnah.com",
+        "repeat": 1
+      }
+    ]
+  }
+  
