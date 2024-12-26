@@ -1,0 +1,79 @@
+.adhkar-card {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .adhkar-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .adhkar-recitation {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #16a085;
+    margin-bottom: 15px;
+  }
+  
+  .adhkar-arabic {
+    font-size: 1.8rem;
+    font-family: 'Amiri', serif;
+    color: #2c3e50;
+    margin: 20px 0;
+    text-align: right;
+    direction: rtl; /* Ensures proper Arabic alignment */
+    line-height: 2; /* Improves readability */
+  }
+  
+  .adhkar-translation {
+    font-size: 1rem;
+    color: #7f8c8d;
+    margin-bottom: 15px;
+    line-height: 1.8; /* Improves readability */
+  }
+  
+  .adhkar-reference-button {
+    background: none;
+    border: none;
+    color: #3498db;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: color 0.2s ease;
+    margin-top: 15px;
+  }
+  
+  .adhkar-reference-button:hover {
+    color: #2980b9;
+  }
+  
+  .adhkar-reference {
+    margin-top: 20px;
+  }
+  
+  .hadith-narration {
+    font-size: 0.9rem;
+    color: #2c3e50;
+    margin-bottom: 15px;
+    white-space: pre-line; /* Ensures newlines are rendered */
+  }
+  
+  .reference-link {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .reference-link:hover {
+    background-color: #2980b9;
+  }
+  
