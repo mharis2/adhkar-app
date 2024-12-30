@@ -139,94 +139,117 @@
   ],
   "evening": [
     {
-      "dua_in_arabic": "أَمْسَيْنا وَأَمْسَى الْـمُلْكُ لِلَّهِ",
-      "dua_in_english": "We have entered the evening and with it all dominion is Allah's.",
-      "reference": "https://sunnah.com",
+      "dua_in_arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+      "dua_in_english": "O Allah! You are my Lord; none has the right to be worshipped but you. You created me and I am Your slave, and I am faithful to my covenant and my promise as far as I am able. I seek Your refuge from the evil of what I have done. I acknowledge before You all the favors that You have bestowed upon me, and I confess all my sins to You. So forgive me, since none can forgive sins except You.",
+      "hadith_in_english": "Reported by al-Bukhari (nos. 6306, 6323) from Shaddad ibn Aws -radiyallaahu `anhu- that the Prophet (ﷺ) said: <<The most superior manner of seeking forgiveness is to say:\n\n'O Allah! You are my Lord; none has the right to be worshipped but you. You created me and I am Your slave, and I am faithful to my covenant and my promise as far as I am able. I seek Your refuge from the evil of what I have done. I acknowledge before You all the favors that You have bestowed upon me, and I confess all my sins to You. So forgive me, since none can forgive sins except You.'\n\nAnd whoever says it in the daytime, being certain of it, and dies in that day before evening, then he will be from the people of Paradise; and whoever says it in the night, being certain of it, and dies before he enters the morning, then he will be from the people of Paradise.>>",
+      "hadith_reference": "Sahih al-Bukhari 6306, 6323",
+      "reference": "https://sunnah.com/bukhari:6306",
+      "repeat": 1
+    }
+    ,
+    {
+      "dua_in_arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ. لَا إِلَهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيكَ لَهُ. لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ. اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّ هَذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا. اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ. اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ.",
+      "dua_in_english": "We have entered the evening, and sovereignty has entered the evening being for Allah alone, and all praise is for Allah. None has the right to be worshipped except Allah alone, having no partner. Sovereignty is for Him, and all praise is for Him, and He has full power over everything. O Allah! I ask You for the good of this night and for the good of what comes after it, and I seek refuge in You from the evil that lies in this night and from the evil of what comes after it. O my Lord! I seek refuge in You from laziness and decrepit old age, and I seek refuge in You from punishment in the fire, and from punishment in the grave.",
+      "hadith_in_english": "Reported by Muslim (no. 2723) from `Abdullah ibn Mas`ood -radiyallaahu `anhu- said: When Allaah’s Messenger (ﷺ) entered the evening he would say:\n\n\"We have entered the evening, and Sovereignty has entered the evening being for Allaah alone, and all praise is for Allaah. None has the right to be worshipped except Allaah alone, having no partner. Sovereignty is for Him, and all praise is for Him, and He has full power over everything. O Allaah! I ask You for the good that lies in this night and for the good of what comes after it, and I seek refuge in You from the evil that lies in this night and from the evil of what comes after it. O my Lord! I seek refuge in You from laziness and decrepit old age, and I seek refuge in You from punishment in the fire, and from punishment in the grave.\"",
+      "hadith_reference": "Sahih Muslim 2723",
+      "reference": "https://sunnah.com/muslim:2723",
       "repeat": 1
     },
     {
-      "dua_in_arabic": "اللّهُمَّ بِكَ أَمْسَيْنَا وَبِكَ أَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ الْمَصِيرُ",
-      "dua_in_english": "O Allah, by Your leave we have reached the evening, and by Your leave we reach the morning, by Your leave we live and die, and to You is the return.",
-      "reference": "https://sunnah.com",
-      "repeat": 1
+      "dua_in_arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ",
+      "dua_in_english": "Glory is to Allah, and praise is to Him, as much as the number of His creation, as He Himself is pleased with, as much as the weight of His Throne, and as plentiful as His Words.",
+      "hadith_in_english": "Reported by Muslim (no. 2726) from Ibn `Abbaas: From Juwayriyah -radiyallaahu `anha- that the Prophet (ﷺ) departed from her in the early morning, when he prayed the Dawn Prayer, and she was at her place of Prayer. Then he returned in the forenoon, and she was still sitting. So he said:\n\n\"Have you continued upon the state which I left you upon?\"\n\nShe said: \"Yes.\"\n\nThe Prophet (ﷺ) said:\n\n\"After leaving you I said four words, three times over; if they were weighed against whatever you have said today they would outweigh that:\n\n'Glory is to Allah, and praise is to Him, as much as the number of His creation, as He Himself is pleased with, as much as the weight of His Throne, and as plentiful as His Words.'\"",
+      "hadith_reference": "Sahih Muslim 2726",
+      "reference": "https://sunnah.com/muslim:2726",
+      "repeat": 3
     },
     {
-      "dua_in_arabic": "اللّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، وَأَعُوذُ بِكَ مِنْ عَذَابِ النَّارِ وَعَذَابِ الْقَبْرِ",
-      "dua_in_english": "O Allah, I seek refuge in You from laziness and the bad effects of old age, and I seek refuge in You from the punishment of the Fire and the punishment of the grave.",
-      "reference": "https://sunnah.com",
-      "repeat": 1
+      "dua_in_arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "dua_in_english": "Glory is to Allah, and praise is to Him.",
+      "hadith_in_english": "Reported by Muslim (no. 2692) from Aboo Hurairah -radiyallaahu `anhu- who said: Allah’s Messenger (ﷺ) said:\n\n\"Whoever says: 'Glory is to Allah, and praise is to Him,' when he enters the morning, and when he enters the evening one hundred times, then no one will come on the Day of Resurrection with something better than what he comes with, except for one who said the like of what he said, or who added something upon it.\"",
+      "hadith_reference": "Sahih Muslim 2692",
+      "reference": "https://sunnah.com/muslim:2692",
+      "repeat": 100
+    },        
+    {
+      "dua_in_arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ اللَّهُ الصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ. قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ مِنْ شَرِّ مَا خَلَقَ وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ. قُلْ أَعُوذُ بِرَبِّ النَّاسِ مَلِكِ النَّاسِ إِلَهِ النَّاسِ مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "dua_in_english": "Say: 'He is Allah, [Who is] One. Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent.' Say: 'I seek refuge in the Lord of daybreak, from the evil of that which He created, and from the evil of darkness when it settles, and from the evil of the blowers in knots, and from the evil of an envier when he envies.' Say: 'I seek refuge in the Lord of mankind, the Sovereign of mankind, the God of mankind, from the evil of the retreating whisperer— who whispers [evil] into the breasts of mankind— from among the jinn and mankind.'",
+      "hadith_in_english": "Narrated Abdullah ibn Khubayb:\n\nWe went out one rainy and intensely dark night to look for the Messenger of Allah (ﷺ) to lead us in prayer. When we found him, he asked:\n\nHave you prayed?\n\nBut I did not say anything. So he said:\n\nSay.\n\nBut I did not say anything. He again said:\n\nSay.\n\nBut I did not say anything. He then said:\n\nSay.\n\nSo I said: What am I to say?\n\nHe said:\n\nSay: \"Say, He is Allah, One,\" and al-Mu'awwadhatan three times in the morning and evening; they will serve you for every purpose.",
+      "hadith_reference": "Sunan Abu Dawood 5082",
+      "reference": "https://sunnah.com/abudawud:5082",
+      "repeat": 3
     },
     {
-      "dua_in_arabic": "اللّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي",
-      "dua_in_english": "O Allah, I ask You for forgiveness and well-being in my religion, my worldly affairs, my family, and my wealth.",
-      "reference": "https://sunnah.com",
-      "repeat": 1
-    },
-    {
-      "dua_in_arabic": "اللّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي",
-      "dua_in_english": "O Allah, guard me from in front of me, from behind me, from my right, from my left, and from above me.",
-      "reference": "https://sunnah.com",
+      "dua_in_arabic": "اللَّهُمَّ بِكَ أَمْسَيْنَا وَبِكَ أَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ الْمَصِيرُ",
+      "dua_in_english": "O Allah! With Your aid, we enter the evening, and with Your aid, we enter the morning. You cause us to live, and You cause us to die, and to You is the final return.",
+      "hadith_in_english": "Reported by Al-Bukhaaree in ‘al-Adabul-Mufrad’ (no. 1199) from Aboo Hurairah -radiyallaahu `anhu- who said:\n\n\"When the Prophet (ﷺ) entered the evening, he would say:\n\n'O Allah! With Your aid, we enter the evening, and with Your aid, we enter the morning. You cause us to live, and You cause us to die, and to You is the final return.'\"",
+      "hadith_reference": "Al-Adabul-Mufrad 1199",
+      "reference": "https://sunnah.com/adab:1199",
       "repeat": 1
     },
     {
       "dua_in_arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
-      "dua_in_english": "In the name of Allah, with whose name nothing on earth or in the heavens can cause harm, and He is the All-Hearing, the All-Knowing.",
-      "reference": "https://sunnah.com",
+      "dua_in_english": "With the name of Allah, He whose name is such that when it is mentioned, nothing in the earth or the heavens can cause harm, and He is the All-Hearing, the All-Knowing.",
+      "hadith_in_english": "Reported by Aboo Daawood (no. 5088) from `Uthmaan ibn `Affaan -radiyallaahu `anhu- who said:\n\nAllah’s Messenger (ﷺ) said:\n\n\"Whoever says: 'With the name of Allah, He whose name is such that when it is mentioned, nothing in the earth or the heavens can cause harm, and He is the All-Hearing, the All-Knowing,' three times, will not be struck by sudden calamity until morning; and whoever says it three times in the morning will not be struck by sudden calamity until the evening.\"",
+      "hadith_reference": "Sunan Abu Dawood 5088",
+      "reference": "https://sunnah.com/abudawud:5088",
       "repeat": 3
     },
     {
-      "dua_in_arabic": "اللّهُمَّ إِنِّي أَسْتَوْدِعُكَ نَفْسِي وَدِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي",
-      "dua_in_english": "O Allah, I entrust to You my soul, my religion, my worldly affairs, my family, and my wealth.",
-      "reference": "https://sunnah.com",
+      "dua_in_arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ. اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي. اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي، اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي.",
+      "dua_in_english": "O Allaah! I ask You for well-being and security in this world and in the Hereafter. O Allaah! I ask You for pardon and for security in my Religion, my worldly life, my family and my wealth. O Allaah! Conceal my faults and keep me safe from that which I fear. O Allaah! Guard me from in front of me and from behind me, and from my right and from my left, and from above me, and I seek refuge in Your greatness from being unexpectedly destroyed from beneath me.",
+      "hadith_in_english": "Reported by Aboo Daawood (no. 5074) from Ibn `Umar -radiyallaahu `anhumaa- who said:\n\n\"Allaah’s Messenger (ﷺ) had not used to leave off these supplications whenever he entered the evening and whenever he entered the morning:\n\n'O Allaah! I ask You for well-being and security in this world and in the Hereafter. O Allaah! I ask You for pardon and for security in my Religion, my worldly life, my family and my wealth. O Allaah! Conceal my faults and keep me safe from that which I fear. O Allaah! Guard me from in front of me and from behind me, and from my right and from my left, and from above me, and I seek refuge in Your greatness from being unexpectedly destroyed from beneath me.'\"",
+      "hadith_reference": "Sunan Abu Dawood 5074",
+      "reference": "https://sunnah.com/abudawud:5074",
       "repeat": 1
     },
     {
-      "dua_in_arabic": "اللّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمِيعِ سَخَطِكَ",
-      "dua_in_english": "O Allah, I seek refuge in You from the withdrawal of Your blessings, the loss of well-being, Your sudden punishment, and all that displeases You.",
-      "reference": "https://sunnah.com",
+      "dua_in_arabic": "لَا إِلَهَ إِلَّا اللَّهُ، وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
+      "dua_in_english": "None has the right to be worshipped except Allah, alone, having no partner. Sovereignty is His, and all praise is for Him, and He has full power over everything.",
+      "hadith_in_english": "Reported by Aboo Daawood (no. 5077) from Aboo `Ayyaash -radiyallaahu `anhu- that Allaah’s Messenger (ﷺ) said:\n\n\"Whoever says in the morning:\n\n'None has the right to be worshipped except Allah, alone, having no partner. Sovereignty is His, and all praise is for Him, and He has full power over everything.'\n\nThen it will be for him like the freeing of a slave from the descendants of Ismaa’eel, and ten good deeds will be written for him, and ten evil deeds will be erased for him, and he will be raised by ten levels, and he will be protected from Satan until the evening; and if he says it in the evening then there will be the like of that for him until the morning.\"",
+      "hadith_reference": "Sunan Abu Dawood 5077",
+      "reference": "https://sunnah.com/abudawud:5077",
       "repeat": 1
     },
     {
-      "dua_in_arabic": "رَضِيتُ بِاللّهِ رَبًّا، وَبِالإِسْلاَمِ دِينًا، وَبِمُحَمَّدٍ نَبِيًّا",
-      "dua_in_english": "I am pleased with Allah as my Lord, Islam as my religion, and Muhammad as my Prophet.",
-      "reference": "https://sunnah.com",
+      "dua_in_arabic": "اللَّهُمَّ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، لَا إِلَهَ إِلَّا أَنْتَ، رَبِّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءًا أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ.",
+      "dua_in_english": "O Allaah! Creator and Originator of the heavens and the earth! Knower of the hidden and the apparent! None has the right to be worshipped but you. The Lord and Omnipotent Sovereign of everything! I seek Your refuge from the evil of myself, and from the evil of Satan and from the Shirk he calls to; and from committing evil against my soul, or bringing it upon a Muslim.",
+      "hadith_in_english": "Reported by at-Tirmidhee (no. 3529) from `Abdullah ibn `Amr -radiyallaahu `anhumaa- that Aboo Bakr as-Siddeeq said to Allaah’s Messenger (ﷺ):\n\n\"O Messenger of Allaah! Teach me what I can say when I enter the morning and when I enter the evening.\"\n\nSo he said:\n\n\"O Aboo Bakr! Say:\n\n'O Allaah! Creator and Originator of the heavens and the earth! Knower of the hidden and the apparent! None has the right to be worshipped but you. The Lord and Omnipotent Sovereign of everything! I seek Your refuge from the evil of myself, and from the evil of Satan and from the Shirk he calls to; and from committing evil against my soul, or bringing it upon a Muslim.'\"",
+      "hadith_reference": "Jami` at-Tirmidhi 3529",
+      "reference": "https://sunnah.com/tirmidhi:3529",
+      "repeat": 1
+    },
+    {
+      "dua_in_arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ، أَصْلِحْ لِي شَأْنِي كُلَّهُ، وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ.",
+      "dua_in_english": "O Ever-Living One! O Self-Subsisting Sustainer of everything! By Your mercy I beseech: rectify for me all of my affairs, and do not entrust me to my own self for the blink of an eye.",
+      "hadith_in_english": "Reported by an-Nasaa’ee in `'Amalul-Yawm wal-Laylah` (no. 575) from Anas ibn Maalik -radiyallaahu `anhu- who said:\n\n\"The Prophet (ﷺ) said to Faatimah:\n\n'What could prevent you from listening to what I counsel you with, or that you say when you enter the morning and when you enter the evening:\n\nO Ever-Living One! O Self-Subsisting Sustainer of everything! By Your mercy I beseech: rectify for me all of my affairs, and do not entrust me to my own self for the blink of an eye.'\"",
+      "hadith_reference": "Amal al-Yawm wal-Laylah 575",
+      "reference": "https://sunnah.com/nasai:575",
+      "repeat": 1
+    },
+    {
+      "dua_in_arabic": "أَمْسَيْنَا عَلَى فِطْرَةِ الإِسْلاَمِ، وَعَلَى كَلِمَةِ الإِخْلاَصِ، وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ ﷺ، وَعَلَى مِلَّةِ أَبِينَا إِبْرَاهِيمَ، حَنِيفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ.",
+      "dua_in_english": "We have entered the evening upon the true religion of Islam, upon the testimony of the word of sincerity, upon the religion of our Prophet Muhammad (ﷺ), and upon the religion of our father Ibrahim – the one who was upright, a Muslim, and was not from among the polytheists.",
+      "hadith_in_english": "Narrated by Abdur-Rahmaan ibn Abzaa:\n\nThe Prophet (ﷺ) used to say when he entered the evening:\n\n\"We have entered the evening upon the true religion of Islam, upon the testimony of the word of sincerity, upon the religion of our Prophet Muhammad (ﷺ), and upon the religion of our father Ibrahim – the one who was upright, a Muslim, and was not from among the polytheists.\"",
+      "hadith_reference": "An-Nasaai in ‘Amalul-Yawm wal-Laylah’ (no. 1, 2, & 3) and Ibnus-Sunnee (no. 34)",
+      "reference": "https://sunnah.com/nasai:3409",
+      "repeat": 1
+    },
+    {
+      "dua_in_arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ.",
+      "dua_in_english": "Allah! None has the right to be worshipped except Him, the Ever-Living, the Self-Subsisting Sustainer of all that exists. Neither drowsiness nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is in the earth. None can intercede with Him except with His permission. He knows whatever lies before them and whatever lies behind them, and they cannot encompass anything of His Knowledge except what He wills. His Footstool extends over the heavens and the earth, and preserving them does not weary Him; and He is the Exalted One, the Tremendous One.",
+      "hadith_in_english": "Narrated by Ubayy ibn Ka`b:\n\nHe said: 'What will safeguard us from you?' The creature replied: 'This Aayah which is in Sooratul-Baqarah.' Then the Prophet (ﷺ) said: 'The foul one has spoken the truth.'",
+      "hadith_reference": "An-Nasaai in ‘Amalul-Yawm wal-Laylah’ (no. 967)",
+      "reference": "https://sunnah.com/nasai:967",
+      "repeat": 1
+    },
+    {
+      "dua_in_arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+      "dua_in_english": "I seek refuge in the perfect and complete Words of Allah from the evil of whatever He has created.",
+      "hadith_in_english": "Narrated by Abu Hurairah:\n\nThe Prophet (ﷺ) said: 'Whoever says three times when he enters the evening:\n\n\"I seek refuge in the perfect and complete Words of Allah from the evil of whatever He has created\"\n\nwill not be harmed by poisonous stings that night.'",
+      "hadith_reference": "At-Tirmidhi (no. 3604/1)",
+      "reference": "https://sunnah.com/urn:744820",
       "repeat": 3
-    },
-    {
-      "dua_in_arabic": "اللّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ، عَاجِلِهِ وَآجِلِهِ، مَا عَلِمْتُ وَمَا لَمْ أَعْلَمْ",
-      "dua_in_english": "O Allah, I ask You for all that is good, immediate and deferred, what I know and what I do not know.",
-      "reference": "https://sunnah.com",
-      "repeat": 1
-    },
-    {
-      "dua_in_arabic": "اللّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
-      "dua_in_english": "O Allah, suffice me with what You have allowed instead of what You have forbidden, and make me independent by Your bounty of all others.",
-      "reference": "https://sunnah.com",
-      "repeat": 1
-    },
-    {
-      "dua_in_arabic": "اللّهُمَّ إِنِّي أَسْتَغْفِرُكَ لِذَنْبِي وَأَسْأَلُكَ رَحْمَتَكَ",
-      "dua_in_english": "O Allah, I seek Your forgiveness for my sins, and I ask for Your mercy.",
-      "reference": "https://sunnah.com",
-      "repeat": 1
-    },
-    {
-      "dua_in_arabic": "اللّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي",
-      "dua_in_english": "O Allah, I ask You for forgiveness and well-being in my religion, my worldly life, my family, and my wealth.",
-      "reference": "https://sunnah.com",
-      "repeat": 1
-    },
-    {
-      "dua_in_arabic": "اللّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي",
-      "dua_in_english": "O Allah, guard me from in front of me, from behind me, from my right, from my left, and from above me.",
-      "reference": "https://sunnah.com",
-      "repeat": 1
-    },
-    {
-      "dua_in_arabic": "اللّهُمَّ أَسْأَلُكَ رِضَاكَ وَالْجَنَّةَ، وَأَعُوذُ بِكَ مِنْ سَخَطِكَ وَالنَّارِ",
-      "dua_in_english": "O Allah, I ask You for Your pleasure and Paradise, and I seek refuge in You from Your wrath and the Fire.",
-      "reference": "https://sunnah.com",
-      "repeat": 1
     }
   ]
 }
