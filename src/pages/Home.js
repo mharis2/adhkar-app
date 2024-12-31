@@ -16,18 +16,18 @@ const Home = () => {
       <div className="home-links">
         <Link to="/morning" className="home-button morning-button">
           <FaSun className="icon" />
-          Morning Adhkar
+          MORNING ADHKAR
         </Link>
         <Link to="/evening" className="home-button evening-button">
           <FaMoon className="icon" />
-          Evening Adhkar
+          EVENING ADHKAR
         </Link>
       </div>
       <button
         className="timing-button"
         onClick={toggleDetails}
       >
-        Timing of Morning and Evening Adhkar{' '}
+        TIMING OF MORNING AND EVENING ADHKAR{' '}
         {isExpanded ? <FaChevronUp className="chevron-icon" /> : <FaChevronDown className="chevron-icon" />}
       </button>
       {isExpanded && (
