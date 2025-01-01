@@ -9,7 +9,9 @@ const AdhkarCard = ({ dua }) => {
     <div className="adhkar-card">
       <h2 className="adhkar-title">{dua.title}</h2>
       <p className="adhkar-recitation">RECITE {dua.repeat} TIMES</p>
-      <p className="adhkar-arabic">{dua.dua_in_arabic}</p>
+      <p className="adhkar-arabic" style={{ whiteSpace: 'pre-wrap' }}>
+        {dua.dua_in_arabic}
+      </p>
       <p className="adhkar-translation">{dua.dua_in_english}</p>
       <div className="adhkar-actions">
         <button
