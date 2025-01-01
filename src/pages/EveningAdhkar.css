@@ -1,0 +1,20 @@
+/* Evening Adhkar Styles */
+.evening-adhkar-container {
+    padding: 20px;
+  }
+  
+  .evening-adhkar-title {
+    font-size: 2.5rem; /* Bigger font size for prominence */
+    font-weight: bold;
+    color: #2c3e50; /* Dark grayish-blue for better readability */
+    text-transform: uppercase; /* Makes it fully uppercase */
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for better visibility */
+    letter-spacing: 2px; /* Spreads out the letters for a modern look */
+    text-align: center; /* Center only the title */
+  }
+  
+  .adhkar-list {
+    text-align: left; /* Ensures the content below stays left-aligned */
+  }
+  
