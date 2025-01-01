@@ -4,7 +4,7 @@ import AdhkarCard from '../components/AdhkarCard';
 
 const MorningAdhkar = () => (
   <div>
-    <h2>Morning Adhkar</h2>
+    <h2>MORNING ADHKAR</h2>
     {adhkar.morning.map((dua, index) => <AdhkarCard key={index} dua={dua} />)}
   </div>
 );
