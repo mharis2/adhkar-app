@@ -19,13 +19,12 @@ const Home = () => {
     <div className="home-container">
       <h1 className="home-title">Daily Adhkar</h1>
 
-      <button className="importance-button" onClick={toggleImportanceDetails}>
+      <button
+        className="importance-button"
+        onClick={toggleImportanceDetails}
+      >
         IMPORTANCE OF MORNING AND EVENING ADHKAR{' '}
-        {isImportanceExpanded ? (
-          <FaChevronUp className="chevron-icon" />
-        ) : (
-          <FaChevronDown className="chevron-icon" />
-        )}
+        {isImportanceExpanded ? <FaChevronUp className="chevron-icon" /> : <FaChevronDown className="chevron-icon" />}
       </button>
       {isImportanceExpanded && (
         <div className="importance-details">
@@ -37,22 +36,27 @@ const Home = () => {
         </div>
       )}
 
-      <button className="timing-button" onClick={toggleTimingDetails}>
+      <button
+        className="timing-button"
+        onClick={toggleTimingDetails}
+      >
         TIMING OF MORNING AND EVENING ADHKAR{' '}
-        {isTimingExpanded ? (
-          <FaChevronUp className="chevron-icon" />
-        ) : (
-          <FaChevronDown className="chevron-icon" />
-        )}
+        {isTimingExpanded ? <FaChevronUp className="chevron-icon" /> : <FaChevronDown className="chevron-icon" />}
       </button>
       {isTimingExpanded && (
         <div className="timing-details">
           <h2>The Time for the Morning & Evening Adhkar</h2>
+          <p>
+            <strong>The Prophet (ﷺ) said:</strong>
+          </p>
           <blockquote>
             "That I sit with people remembering Allah, the Most High, from the dawn prayer until the sun rises is more beloved to me than freeing four slaves from the children of Isma'eel ('Alaihis-Salaam). And that I sit with people remembering Allah from the late afternoon ('Asr) prayer until the sun sets is more beloved to me than freeing four [slaves from among the children of Isma'eel ('Alaihis-Salaam)]."
           </blockquote>
           <p>
             [Reported by Aboo Dawood, no. 3667. Al-Albaanee classified it as Hasan (good, acceptable) in Saheeh Aboo Dawood, 2/698]
+          </p>
+          <p>
+            <strong>Shaykh Abdul Razzaq Al Badr (حفظه الله) said:</strong>
           </p>
           <blockquote>
             The time period for these private devotional recitations (i.e. words of remembrance) is <em>as-Sabah al-Bakir</em> (early morning) from immediately following the dawn (Subh) prayer up until just before the rising of the sun. As for the evening (period) which is called <em>al-'Asheey</em> and <em>al-A'sal</em>, its time is from immediately following the late afternoon ('Asr) prayer up until just before the setting of the sun.
