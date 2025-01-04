@@ -9,9 +9,11 @@ body {
   box-sizing: border-box; /* Prevent layout issues */
 }
 
+/* Buttons Container */
 .home-container {
-  text-align: center;
-  padding: 40px;
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  align-items: center; /* Center align */
 }
 
 /* Header Styling */
@@ -35,6 +37,7 @@ body {
 }
 
 /* Buttons */
+/* Buttons */
 .home-button {
   background-color: #ffffff;
   color: #2c3e50;
@@ -45,14 +48,15 @@ body {
   font-weight: bold;
   text-decoration: none;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
+  align-items: center; /* Align icon and text vertically */
+  justify-content: center; /* Center icon and text horizontally */
+  gap: 10px; /* Spacing between icon and text */
   transition: all 0.3s ease-in-out;
   width: 220px;
   height: 100px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   margin-top: 20px; /* Uniform top margin for spacing */
+  text-align: center;
 }
 
 .home-button:hover {
@@ -61,6 +65,7 @@ body {
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
+/* Morning and Evening Buttons */
 .morning-button {
   border-color: #f39c12;
 }
@@ -81,8 +86,10 @@ body {
 
 /* Icons */
 .icon {
-  font-size: 2rem;
+  font-size: 1.5rem;
+  margin-bottom: 5px; /* Slightly separate the icon from the text */
 }
+
 
 /* Importance Button */
 .importance-button {
@@ -184,30 +191,23 @@ body {
     align-items: center;
   }
 
-  .home-button {
-    width: 90%;
+  .home-button,
+  .timing-button,
+  .importance-button {
+    width: 90%; /* Slightly decrease the width on mobile for all buttons */
     height: auto;
     padding: 10px 15px;
     font-size: 1.2rem;
-    margin-top: 20px; /* Uniform top margin */
+    margin-bottom: -10px; /* Uniform top margin */
+  }
+
+  .morning-button {
+    border-color: #f39c12;
+    width: 330px;
   }
 
   .icon {
-    font-size: 1.8rem;
-  }
-
-  .timing-button {
-    font-size: 1.2rem;
-    padding: 10px 15px;
-    width: 100%;
-    margin-top: 40px; /* Uniform top margin */
-  }
-
-  .importance-button {
-    font-size: 1.2rem;
-    padding: 10px 15px;
-    width: 100%;
-    margin-top: 20px; /* Uniform top margin */
+    font-size: 1.8rem; /* Adjust icon size for mobile */
   }
 
   .importance-details,
