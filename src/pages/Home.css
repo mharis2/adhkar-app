@@ -31,6 +31,7 @@ body {
   justify-content: center;
   gap: 20px;
   flex-wrap: wrap;
+  margin-top: 20px; /* Ensure consistent spacing from section */
 }
 
 /* Buttons */
@@ -51,6 +52,7 @@ body {
   width: 220px;
   height: 100px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px; /* Uniform top margin for spacing */
 }
 
 .home-button:hover {
@@ -82,6 +84,30 @@ body {
   font-size: 2rem;
 }
 
+/* Importance Button */
+.importance-button {
+  background-color: #ffffff;
+  border: 2px solid #27ae60;
+  padding: 12px 25px;
+  border-radius: 15px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  transition: all 0.3s ease-in-out;
+  width: 630px; /* Same width as Timing button */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px; /* Uniform top margin for spacing */
+}
+
+.importance-button:hover {
+  background-color: #27ae60;
+  color: #ffffff;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
 /* Dropdown Button */
 .timing-button {
   background-color: #f5f5f5;
@@ -91,14 +117,15 @@ body {
   border-radius: 15px;
   font-size: 1.5rem;
   font-weight: bold;
-  margin-top: 30px;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 10px;
   transition: all 0.3s ease-in-out;
+  width: 630px; /* Same width as Importance button */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  max-width: 90%;
+  margin-top: 40px; /* Uniform top margin for spacing */
 }
 
 .timing-button:hover {
@@ -111,7 +138,8 @@ body {
   font-size: 1.8rem;
 }
 
-/* Dropdown Details */
+/* Details Section (Shared for Importance and Timing) */
+.importance-details,
 .timing-details {
   text-align: left;
   margin-top: 20px;
@@ -124,6 +152,7 @@ body {
   margin-right: auto;
 }
 
+.importance-details h2,
 .timing-details h2 {
   font-size: 1.5rem;
   color: #2c3e50;
@@ -133,15 +162,17 @@ body {
   letter-spacing: 0.5px; /* Slight spacing for modern look */
 }
 
+.importance-details p,
 .timing-details p,
+.importance-details blockquote,
 .timing-details blockquote {
   margin-bottom: 15px;
   font-size: 1rem;
   line-height: 1.6;
   color: #2c3e50;
-  font-weight: 400; /* Keep body text regular */
 }
 
+.importance-details blockquote,
 .timing-details blockquote {
   font-style: italic;
 }
@@ -156,8 +187,9 @@ body {
   .home-button {
     width: 90%;
     height: auto;
-    padding: 15px;
+    padding: 10px 15px;
     font-size: 1.2rem;
+    margin-top: 20px; /* Uniform top margin */
   }
 
   .icon {
@@ -167,21 +199,30 @@ body {
   .timing-button {
     font-size: 1.2rem;
     padding: 10px 15px;
+    width: 100%;
+    margin-top: 40px; /* Uniform top margin */
   }
 
-  .chevron-icon {
-    font-size: 1.5rem;
+  .importance-button {
+    font-size: 1.2rem;
+    padding: 10px 15px;
+    width: 100%;
+    margin-top: 20px; /* Uniform top margin */
   }
 
+  .importance-details,
   .timing-details {
     padding: 15px;
   }
 
+  .importance-details h2,
   .timing-details h2 {
     font-size: 1.2rem;
   }
 
+  .importance-details p,
   .timing-details p,
+  .importance-details blockquote,
   .timing-details blockquote {
     font-size: 0.9rem;
   }
