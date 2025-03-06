@@ -30,19 +30,24 @@ body {
 /* Links Container */
 .home-links {
   display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
+  flex-direction: column; /* Stack links vertically */
+  align-items: center;
+  gap: 20px; /* Spacing between buttons */
   margin-top: 20px; /* Ensure consistent spacing from section */
 }
 
 /* Buttons */
-/* Buttons */
-.home-button {
+.home-button,
+.morning-button,
+.evening-button,
+.importance-button,
+.timing-button {
+  width: 660px; /* Set consistent width for all buttons */
+  height: 100px; /* Set consistent height for all buttons */
   background-color: #ffffff;
   color: #2c3e50;
   border: 2px solid #2c3e50;
-  padding: 20px 40px;
+  padding: 0; /* Ensure no extra padding */
   border-radius: 15px;
   font-size: 1.5rem;
   font-weight: bold;
@@ -52,14 +57,15 @@ body {
   justify-content: center; /* Center icon and text horizontally */
   gap: 10px; /* Spacing between icon and text */
   transition: all 0.3s ease-in-out;
-  width: 220px;
-  height: 100px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin-top: 20px; /* Uniform top margin for spacing */
   text-align: center;
 }
 
-.home-button:hover {
+.home-button:hover,
+.morning-button:hover,
+.evening-button:hover,
+.importance-button:hover,
+.timing-button:hover {
   background-color: #2c3e50;
   color: #ffffff;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
@@ -84,65 +90,33 @@ body {
   color: #ffffff;
 }
 
-/* Icons */
-.icon {
-  font-size: 1.5rem;
-  margin-bottom: 5px; /* Slightly separate the icon from the text */
-}
-
-
 /* Importance Button */
 .importance-button {
-  background-color: #ffffff;
-  border: 2px solid #27ae60;
-  padding: 12px 25px;
-  border-radius: 15px;
-  font-size: 1.5rem;
-  font-weight: bold;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  transition: all 0.3s ease-in-out;
-  width: 630px; /* Same width as Timing button */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin-top: 20px; /* Uniform top margin for spacing */
+  border-color: #27ae60;
 }
 
 .importance-button:hover {
   background-color: #27ae60;
   color: #ffffff;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 /* Dropdown Button */
 .timing-button {
+  margin-top: 20px;
   background-color: #f5f5f5;
   color: #2c3e50;
-  border: 2px solid #2c3e50;
-  padding: 12px 25px;
-  border-radius: 15px;
-  font-size: 1.5rem;
-  font-weight: bold;
-  cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  transition: all 0.3s ease-in-out;
-  width: 630px; /* Same width as Importance button */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin-top: 40px; /* Uniform top margin for spacing */
+  border-color: #2c3e50;
 }
 
 .timing-button:hover {
   background-color: #e0e0e0;
   color: #2c3e50;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
-.chevron-icon {
-  font-size: 1.8rem;
+/* Icons */
+.icon {
+  font-size: 1.5rem;
+  margin-bottom: 5px; /* Slightly separate the icon from the text */
 }
 
 /* Details Section (Shared for Importance and Timing) */
@@ -187,27 +161,21 @@ body {
 /* Responsive Styles */
 @media (max-width: 768px) {
   .home-links {
-    flex-direction: column;
-    align-items: center;
+    gap: 20px; /* Adjust spacing between buttons on mobile */
   }
 
   .home-button,
-  .timing-button,
-  .importance-button {
-    width: 90%; /* Slightly decrease the width on mobile for all buttons */
-    height: auto;
-    padding: 10px 15px;
-    font-size: 1.2rem;
-    margin-bottom: -10px; /* Uniform top margin */
-  }
-
-  .morning-button {
-    border-color: #f39c12;
-    width: 330px;
+  .morning-button,
+  .evening-button,
+  .importance-button,
+  .timing-button {
+    width: 380px; /* Maintain consistent width on mobile */
+    height: 100px; /* Maintain consistent height on mobile */
+    font-size: 1.5rem; /* Keep consistent font size */
   }
 
   .icon {
-    font-size: 1.8rem; /* Adjust icon size for mobile */
+    font-size: 1.5rem; /* Keep icon size consistent */
   }
 
   .importance-details,
