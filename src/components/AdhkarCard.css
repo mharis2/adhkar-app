@@ -31,16 +31,26 @@
   margin-bottom: 15px;
 }
 
-/* Arabic Text */
+@font-face {
+  font-family: 'AlQuranIndoPak';
+  src: url('../../public/AlQuran-IndoPak-by-QuranWBW.v.4.2.2.ttf') format('truetype'); /* Same directory reference */
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Apply Arabic font only to Arabic text */
 .adhkar-arabic {
+  font-family: 'AlQuranIndoPak', serif !important;
   font-size: 1.8rem;
-  font-family: 'Amiri', serif;
   color: #2c3e50;
   margin: 20px 0;
   text-align: right;
   direction: rtl; /* Ensures proper Arabic alignment */
   line-height: 2; /* Improves readability */
 }
+
+
+
 
 /* Translation Text */
 .adhkar-translation {

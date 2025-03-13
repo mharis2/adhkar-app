@@ -9,10 +9,15 @@ const AdhkarCard = ({ dua }) => {
     <div className="adhkar-card">
       <h2 className="adhkar-title">{dua.title}</h2>
       <p className="adhkar-recitation">RECITE {dua.repeat} TIMES</p>
+
+      {/* Arabic text with proper class for font styling */}
       <p className="adhkar-arabic" style={{ whiteSpace: 'pre-wrap' }}>
         {dua.dua_in_arabic}
       </p>
+
+      {/* English translation (unchanged) */}
       <p className="adhkar-translation">{dua.dua_in_english}</p>
+
       <div className="adhkar-actions">
         <button
           className="adhkar-action-button reference-button"
@@ -27,6 +32,7 @@ const AdhkarCard = ({ dua }) => {
           {showExplanation ? 'HIDE EXPLANATION ▲' : 'SHOW EXPLANATION ▼'}
         </button>
       </div>
+
       {showReference && (
         <div className="adhkar-reference">
           <h3 className="adhkar-section-title">REFERENCE</h3>
@@ -41,6 +47,7 @@ const AdhkarCard = ({ dua }) => {
           </a>
         </div>
       )}
+
       {showExplanation && (
         <div className="adhkar-explanation">
           <h3 className="adhkar-section-title">EXPLANATION</h3>
