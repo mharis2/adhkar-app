@@ -55,7 +55,7 @@
       "hadith_reference": "Abu Dawood (no. 5090), Ahmad (5/42), an-Nasā’ī in ‘Amal al-Yawm wal-Laylah (no. 22), Ibn as-Sunni (no. 69), al-Bukhārī in al-Adab al-Mufrad. The isnād was graded hasan by al-Albānī, and Ibn Bāz in Tuhfatul-Akhyār (p. 26).",
       "reference": "https://sunnah.com/abudawud:5090",
       "repeat": 3,
-      "title": "This is done daily"
+      "title": "Recite the following each day"
     },
     {
       "dua_in_arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي، وَاحْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي، وَعَنْ يَمِينِي وَعَنْ شِمَالِي، وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي.",
@@ -146,7 +146,8 @@
       "hadith_in_english": "Narrated by the Messenger of Allah (ﷺ):\n\n'He instructed the believers to seek forgiveness as he himself would seek forgiveness 100 times each day.'\n\nIn a narration, he said: 'By Allah, I seek Allah’s forgiveness and repent to Him more than 100 times in a day.'",
       "hadith_reference": "Muslim (no. 2702), Al-Bukhārī (no. 6307).",
       "reference": "https://sunnah.com/muslim:2702",
-      "repeat": 100
+      "repeat": 100,
+      "title": "Recite the following each day"
     },    
     {
       "dua_in_arabic": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ\nاللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ",
@@ -154,7 +155,8 @@
       "hadith_in_english": "Narrated by Abu Hurairah:\n\nAllah's Messenger (ﷺ) said:\n\n\"No servant seeks protection from the Fire seven times in a day except that the Fire says: 'O my Lord! Your servant so and so has sought Your protection from me, so grant him protection.' And no servant asks Allah for Paradise seven times in a day except that Paradise says: 'O my Lord! Your servant so and so has asked for me, so admit him into Paradise.'\"",
       "hadith_reference": "Aboo Ya’laa (4/1472-1473)",
       "reference": "https://preciousgemsfromthequranandsunnah.wordpress.com/2018/11/14/seeking-refuge-from-the-fire-and-asking-for-paradise-seven-times-a-day/",
-      "repeat": 7
+      "repeat": 7,
+      "title": "Recite the following each day"
     },
     {
       "title": "Allah is Sufficient for Me; Upon Him, Alone, I Rely and Depend",
